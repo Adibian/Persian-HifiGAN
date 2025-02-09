@@ -20,3 +20,8 @@ Please refer to [original repository](https://github.com/kan-bayashi/ParallelWav
 
 ## Acknowledgements
 We thank the authors of the [ParallelWaveGAN repository](https://github.com/kan-bayashi/ParallelWaveGAN) for their well-structured codebase and recipe, which served as the basis for this Persian adaptation.
+
+## License  
+This project is based on [ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN),  
+which is licensed under the MIT License.  
+The modifications for [your purpose, e.g., Persian speech synthesis, improvements] are © 2025 Majid Adibian.  
